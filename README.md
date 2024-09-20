@@ -1,8 +1,7 @@
-# Image-Search-App
+# My Journey with Google Apps Script & CRUD
+
 A web-based dashboard to search, display, and manage customer data with images. Features include pagination, custom card design, and integrated search functionalities.
 
-
-My Journey with Google Apps Script & CRUD:
 In 2020, during the global COVID-19 pandemic, I was first introduced to the concept of CRUD (Create, Read, Update, Delete) functionality. While in lockdown, I decided to take this time to learn how to develop this fundamental feature. However, the journey wasn’t easy, and I encountered numerous challenges along the way.
 
 That’s when I discovered an incredible YouTube channel called 'Learn Google Sheets & Excel Spreadsheets' Channel link: https://www.youtube.com/@ExcelGoogleSheets. This channel was a turning point for me. Despite the creator never revealing his identity or face, the content was invaluable. The lessons taught me more than I could have imagined, and if these courses had a price tag, they would have easily been worth over $20,000-$50,000.
